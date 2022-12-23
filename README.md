@@ -1,2 +1,2 @@
-# D-CHIARA-Documenti-corsoBegearJava-Versioning
+# D-CHIARA-Documenti-
 Primo progetto con git
